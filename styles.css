@@ -1,0 +1,53 @@
+body {
+	background-color: #1b4332;
+}
+
+form {
+	padding: 1.2rem;
+	background-color: #081c15;
+	color: lightgreen;
+}
+
+h1 {
+	margin-bottom: 2rem;
+	color: lightgreen;
+}
+
+footer {
+	text-align: center;
+	color: white;
+	font-size: 14px;
+}
+
+.btn-primary {
+	background-color: green;
+	color: white;
+	padding: 1.2rem;
+}
+
+.btn-primary:hover {
+	background-color: lightgreen;
+}
+
+#usernameError {
+	color: red;
+	font-weight: bolder;
+}
+
+#passwordAgainError {
+	color: red;
+	font-weight: bolder;
+}
+
+#city {
+	font-weight: bolder;
+	color: green;
+}
+#latitude {
+	font-weight: bolder;
+	color: green;
+}
+#Longitude {
+	font-weight: bolder;
+	color: green;
+}
